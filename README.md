@@ -68,7 +68,7 @@ The framework follows the Page Object Model (POM) design pattern to separate tes
                        |
                Chromium / Firefox / WebKit
 
-##Project Structure
+## Project Structure
 
 ecommerce-automation-testing/
 |
@@ -95,7 +95,7 @@ ecommerce-automation-testing/
 git clone https://github.com/YOUR_USERNAME/ecommerce-automation-testing.git
 cd ecommerce-automation-testing
 
-##Installation
+## Installation
 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/ecommerce-automation-testing.git
 cd ecommerce-automation-testing
